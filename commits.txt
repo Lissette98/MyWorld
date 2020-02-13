@@ -1,0 +1,17 @@
+commit 732177632f74afef86bb7a1765d081f31ab5d94c
+Author: Rosa Carmona <rosacarmona98@hotmail.com>
+Date:   Sat Feb 8 15:55:31 2020 -0600
+
+    Se cambiaron el porcentaje del contenedor y se agregaron signos de expresión al título principal de la página de index
+
+commit bf10f20f703247dd61e39c6704ddcec889dd3a30
+Author: Rosa Carmona <rosacarmona98@hotmail.com>
+Date:   Sat Feb 8 15:43:54 2020 -0600
+
+    Agregamos twitter a la pagina
+
+commit 1f44641d5070851b7181dbacc6e449fe097434c7
+Author: Rosa Carmona <rosacarmona98@hotmail.com>
+Date:   Sat Feb 8 15:36:13 2020 -0600
+
+    Primera vez

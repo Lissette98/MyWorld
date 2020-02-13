@@ -32,7 +32,7 @@ header{
 #contenedor-titulo-flex{
   display: flex;
   justify-content: center;
-  margin: 18vh 0;
+  margin: 17vh 0;
 }
 h1{
   text-align: right;
